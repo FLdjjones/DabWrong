@@ -1,5 +1,5 @@
 # DabWrong
-![header](https://github.com/FLdjjones/DabWrong/pictures/v0_2.png)
+![header](https://github.com/FLdjjones/DabWrong/blob/main/pictures/v0_2.png)
 A DIY real time IR temperature sensor
 
 Made to mimic the Dab-Rite https://dabrite.com/ 
