@@ -6,7 +6,8 @@ Made to mimic the Dab-Rite https://dabrite.com/
 
 ## Features
  - IR temperature sensor
- **In the works**
+  
+**In the works**
  - Adjustable Visual Alarm
  - Adjustable Temperature
 
